@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-07T12:47:51 IST" name="Default suite" finished-at="2021-06-07T12:48:07 IST" duration-ms="15271">
+    <groups>
+    </groups>
+    <test started-at="2021-06-07T12:47:51 IST" name="Default test" finished-at="2021-06-07T12:48:07 IST" duration-ms="15271">
+      <class name="Testng.HeroInternetTest">
+        <test-method is-config="true" signature="inte()[pri:0, instance:Testng.HeroInternetTest@147ed70f]" started-at="2021-06-07T12:47:51 IST" name="inte" finished-at="2021-06-07T12:47:53 IST" duration-ms="1857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inte -->
+        <test-method signature="Test()[pri:0, instance:Testng.HeroInternetTest@147ed70f]" started-at="2021-06-07T12:47:53 IST" name="Test" finished-at="2021-06-07T12:48:07 IST" duration-ms="13270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="closeb()[pri:0, instance:Testng.HeroInternetTest@147ed70f]" started-at="2021-06-07T12:48:07 IST" name="closeb" finished-at="2021-06-07T12:48:07 IST" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeb -->
+      </class> <!-- Testng.HeroInternetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -40,7 +40,7 @@ public class App {
 		String text = wait
 				.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//div[contains(@class,'output')]")))
 				.getText();
-		System.out.println(text);
+		
 		driver.close();
 
 		FileWriter fw = null;

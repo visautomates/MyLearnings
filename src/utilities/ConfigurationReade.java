@@ -31,10 +31,11 @@ public class ConfigurationReade extends BaseClass {
 	public String getdriverpath() {
 
 		String Driverpath = properties.getProperty("Driverpath");
+
 		if (Driverpath != null) {
 			return Driverpath;
 		} else
-			throw new RuntimeException("Driverpath not configured" + propertyFilePath);
+			throw new RuntimeException("Driverpath not configured" );
 
 	}
 
